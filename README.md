@@ -1,6 +1,7 @@
 # About me
 
-Carlos P Cantalapiedra<br/>
+**Carlos P Cantalapiedra**
+
 Dpt. Plant Genetics and Breeding
 EEAD - CSIC
 Zaragoza - Spain
